@@ -1,5 +1,3 @@
- Recher Olivier 2A
-
 = Diagrammes de UC avec plantUML
 Jean-Michel Bruel <jbruel@gmail.com>
 v1.0, 2022-03-06 : Initial draft
@@ -32,16 +30,16 @@ Ce TP vise à reprendre les diagrammes des UC et les lier avec le diagramme de c
 
 == À propos...
 
-NOM:: DOE
+NOM:: Recher
 
-Prénom:: John
+Prénom:: Olivier
 
 Groupe #::
 
 [%interactive]
-- [X] Enseignants
+- [ ] Enseignants
 - [ ] 1
-- [ ] 2
+- [X] 2
 - [ ] 3
 - [ ] 4
 
