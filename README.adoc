@@ -1,5 +1,6 @@
-Recher Olivier 2A
-= Diagrammes de UC avec plantUML
+= Recher Olivier 2A
+
+Diagrammes de UC avec plantUML
 Jean-Michel Bruel <jbruel@gmail.com>
 v1.0, 2022-03-06 : Initial draft
 :icons: font
